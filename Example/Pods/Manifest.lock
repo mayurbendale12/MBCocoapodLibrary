@@ -1,0 +1,16 @@
+PODS:
+  - MBCocoapodLibrary (0.1.0)
+
+DEPENDENCIES:
+  - MBCocoapodLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MBCocoapodLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBCocoapodLibrary: b30f4c1b2383f7ea98d469b1ba9a72e4a2f6b69a
+
+PODFILE CHECKSUM: e141efe601015dad26dfe69891470b426f30a28c
+
+COCOAPODS: 1.16.2
